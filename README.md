@@ -6,8 +6,10 @@ Find below the task details that need to be submitted if you want to take this p
 
 Task
 Fork/Clone this repo.
-In the project, you will find a DemoScene with a car and a ground where the materials of both the car and the ground have been altered to make them not feel visually pleasing.
+In the project, you will find a DemoScene with a car and a ground where the materials of both the car and the ground have been altered to make them not feel visually pleasing. It should look something like this.
+
 ![Task](https://github.com/user-attachments/assets/c1c6bb2e-9e22-4022-8e18-0e51e7a57ea1)
+
 Your task is to create/edit materials for the Car and Ground. Sky is the limit here so get as creative and make it look as good as you can. Do make sure to make the windows of the car transparent.
 Once the materials are done, you also need to implement post processing, specifically Bloom for the head and tail lights of the car.
 
